@@ -1,0 +1,19 @@
+#fullstack div {
+  display: flex;
+  padding: 10px 10px 0 10px;
+  justify-content: center;
+  align-items: center;
+}
+#fullstack div {
+  padding: 10px 10px 0 10px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid #000;
+  width: 30%;
+}
+#fullstack img {
+  padding: 10px;
+  margin-bottom: 5px;
+  align-items: center;
+}
